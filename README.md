@@ -1,7 +1,7 @@
 # change-php-version
 Simple script for changing command line PHP version
 
-##Usage:##
+## Usage: ##
 
 Run `chmod -x change-php-version.sh` to allow the script to be executable first
 
